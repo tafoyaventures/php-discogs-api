@@ -6,7 +6,7 @@
 [![License](https://poser.pugx.org/ricbra/php-discogs-api/license.png)](https://packagist.org/packages/ricbra/php-discogs-api)
 [![Quality](https://scrutinizer-ci.com/g/ricbra/php-discogs-api/badges/quality-score.png)](https://scrutinizer-ci.com/g/ricbra/php-discogs-api/)
 
-This library is a PHP 7.3 implementation of the [Discogs API v2.0.](http://www.discogs.com/developers/index.html)
+This library is a PHP 7.4 implementation of the [Discogs API v2.0.](http://www.discogs.com/developers/index.html)
 The Discogs API is a REST-based interface. By using this library you don't have to worry about communicating with the
 API: all the hard work has already be done.
 
@@ -19,10 +19,10 @@ This library is released under the MIT license. See the complete license in the 
 Start by [installing composer](http://getcomposer.org/doc/01-basic-usage.md#installation).
 Next do:
 
-    $ composer require ricbra/php-discogs-api
+    $ composer require tafoyaventures/php-discogs-api
 
 ## Requirements
-PHP >=7.3.0
+PHP >=7.4.0
 
 ## Usage
 Creating a new instance is as simple as:
