@@ -5,7 +5,7 @@
     "keywords": ["discogs", "api"],
     "license": "MIT",
     "require": {
-        "php": ">=7.3.0",
+        "php": ">=7.4.0",
         "guzzlehttp/guzzle": "~7.0",
         "guzzlehttp/guzzle-services": "~1.2.0",
         "guzzlehttp/oauth-subscriber": "~0.4"
